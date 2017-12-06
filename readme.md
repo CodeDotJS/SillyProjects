@@ -14,34 +14,34 @@ __`Goals`__
 simple command line tool or a shitty node module. 
 
 
-|Date| Day                  | Project             |   Status                                                                      |
-|----|----------------------|---------------------|:-----------------------------------------------------------------------------:|
-||  __`One`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Two`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Three`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Four`__          |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Five`__          |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Six`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Seven`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Eight`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Nine`__          |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Ten`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Eleven`__        |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-||  __`Tweleve`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Thirteen`__      |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-|  |__`Fourteen`__      |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-|  |__`Fifteen`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-|  |__`Sixteen`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Seventeen`__     |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Eighteen`__      |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Ninteen`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Twenty`__        |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Twenty One`__    |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Twenty Two`__    |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| | __`Twenty Three`__  |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-|  |__`Twenty Four`__   |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| |                     |                     |                                                                               |
-| |__`Days : 24`__      | __`Projects : 24`__ | __`Finished :`__ __`0`__                                                      |
+|Date         | Day                  | Project             |   Status                                                                      |
+|-------------|----------------------|---------------------|:-----------------------------------------------------------------------------:|
+|7/12/2017    |  __`One`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|8/12/2017    |  __`Two`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|9/12/2017    |  __`Three`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|10/12/2017   |  __`Four`__          |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|11/12/2017   |  __`Five`__          |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|12/12/2017   |  __`Six`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|13/12/2017   |  __`Seven`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|14/12/2017   |  __`Eight`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|15/12/2017   |  __`Nine`__          |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|16/12/2017   |  __`Ten`__           |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|17/12/2017   |  __`Eleven`__        |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|18/12/2017   |  __`Tweleve`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|19/12/2017   | __`Thirteen`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|20/12/2017   |__`Fourteen`__        |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|21/12/2017   |__`Fifteen`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|22/12/2017   |__`Sixteen`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|23/12/2017   | __`Seventeen`__      |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|24/12/2017   | __`Eighteen`__       |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|25/12/2017   | __`Ninteen`__        |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|26/12/2017   | __`Twenty`__         |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|27/12/2017   | __`Twenty One`__     |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|28/12/2017   | __`Twenty Two`__     |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|29/12/2017   | __`Twenty Three`__   |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|30/12/2017   |__`Twenty Four`__     |                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|             |                      |                     |                                                                               |
+|             |__`Days : 24`__       | __`Projects : 24`__ | __`Finished :`__ __`0`__                                                      |
 
 ## License
 
