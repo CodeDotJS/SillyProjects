@@ -17,7 +17,7 @@ simple command line tool or a shitty node module.
 |Date         | Day                        | Project                                               |   Status                                                                        |
 |-------------|----------------------      |-------------------------------------------------------|:-------------------------------------------------------------------------------:|
 |__`7/12/2017`__    |  __`One`__           | __[`time-in`](https://github.com/CodeDotJS/time-in)__ | [![Build Status](https://img.shields.io/badge/Progress-Finished-green.svg)]()   |
-|__`8/12/2017`__    |  __`Two`__           | __[`🌈`](https://github.com/CodeDotJS/🌈🌈)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
+|__`8/12/2017`__    |  __`Two`__           | __[`saynum`](https://github.com/CodeDotJS/saynum)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
 |__`9/12/2017`__    |  __`Three`__         | __[`🌈`](https://github.com/CodeDotJS/🌈🌈)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
 |__`10/12/2017`__   |  __`Four`__          | __[`🌈`](https://github.com/CodeDotJS/🌈🌈)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
 |__`11/12/2017`__   |  __`Five`__          | __[`🌈`](https://github.com/CodeDotJS/🌈🌈)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
@@ -41,7 +41,7 @@ simple command line tool or a shitty node module.
 |__`29/12/2017`__   | __`Twenty Three`__   | __[`🌈`](https://github.com/CodeDotJS/🌈🌈)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
 |__`30/12/2017`__   |__`Twenty Four`__     | __[`🌈`](https://github.com/CodeDotJS/🌈🌈)__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]()   |
 |                   |                      |                                                       |                                                                                 |
-|   📈📈📈📈📈📈    |__`Days : 24`__       | __`Projects : 24`__                                   | __`Finished :`__ __`1`__                                                        |
+|   📈📈📈📈📈📈    |__`Days : 24`__       | __`Projects : 24`__                                   | __`Finished :`__ __`2`__                                                        |
 
 ## License
 
