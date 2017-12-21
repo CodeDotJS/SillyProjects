@@ -2,6 +2,8 @@
 
 <p align="center">Each day, a new command line tool. Simple but somewhat cool!</p>
 
+<p align="center">Dealy in the updations. I'm not getting enough time!</p>
+
 
 __`Why?`__
 
